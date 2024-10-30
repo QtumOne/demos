@@ -1,6 +1,12 @@
 {
   "name": "demos",
   "private": true,
+  "workspaces": [
+    "react"
+  ],
   "author": "头号玩儿家 <qtumone@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
 }
