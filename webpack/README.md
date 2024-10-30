@@ -49,3 +49,5 @@ when using template, the template variables is needed to inject plugin data.
 - htmlWebpackPlugin.options
 - htmlWebpackPlugin.tags
 - htmlWebpackPlugin.files
+
+#### MiniCssExtractPlugin

@@ -1,4 +1,4 @@
-# qi
+# basic
 
 ## plugins
 
